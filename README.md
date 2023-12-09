@@ -1,3 +1,4 @@
 - I'm working on becoming a software developer!
-- Just focusing on Python for the moment to get grounded.
+- Just focusing on Python and related technologies for the moment to get grounded.
 - I'm an avid starrer/follower! Just collecting resources, don't mind me.
+- Interested in lots of diverse topics!
